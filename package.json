@@ -1,0 +1,17 @@
+{
+  "name": "nice-repl",
+  "version": "0.1.0",
+  "description": "zero-config repl for your project",
+  "main": "lib/repl.js",
+  "bin": {
+    "nice-repl": "./bin/nice-repl.js"
+  },
+  "repository": "https://github.com/raymondpulver/nice-repl",
+  "author": "Raymond Pulver IV",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "local-repl": "^4.0.0",
+    "mkdirp": "^1.0.4"
+  }
+}
