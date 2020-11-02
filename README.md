@@ -27,7 +27,3 @@ local-repl did not have repl history. nice-repl is nicer than that. It will crea
 ## Author
 
  Raymond Pulver IV
-
-```
-Inspired by my nice, who only likes things that are nice. I believe one day she will like this repl.
-```
