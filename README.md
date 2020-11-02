@@ -19,6 +19,11 @@ This is a zero-config repl for your project, and instead of writing a .replrc.js
 local-repl did not have repl history. nice-repl is nicer than that. It will create a ~/.nice-repl directory and save a repl history in a directory it makes based on the full project directory name. You can set the environment variable NODE_REPL_HISTORY_SIZE to configure the amount of lines you want to save in the history, same as the node.js REPL.
 
 
+## Tips
+
+- Declare locals with `var` in your .replrc.js to expose to the context
+- TODO (more tips)
+
 ## Author
 
  Raymond Pulver IV
