@@ -12,6 +12,8 @@
   "private": false,
   "dependencies": {
     "local-repl": "^4.0.0",
-    "mkdirp": "^1.0.4"
+    "mkdirp": "^1.0.4",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
   }
 }
